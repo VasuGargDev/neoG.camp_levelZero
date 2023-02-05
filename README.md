@@ -15,5 +15,6 @@ docs: updated README
 fix: validating input for leap year
 style: added chalk for CLI app
 feat: added level based game play in your CLI app
-refactor: renamed variable
+refactor: renamed variable 
+
 
